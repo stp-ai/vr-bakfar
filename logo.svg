@@ -1,0 +1,21 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- VR Headset Icon -->
+  <g id="headset">
+    <!-- Main headset body -->
+    <rect x="10" y="25" width="60" height="30" rx="8" fill="#00D9FF" opacity="0.9"/>
+    <!-- Left lens -->
+    <circle cx="25" cy="40" r="8" fill="#2D3748" opacity="0.3"/>
+    <circle cx="25" cy="40" r="6" fill="#FFFFFF" opacity="0.6"/>
+    <!-- Right lens -->
+    <circle cx="55" cy="40" r="8" fill="#2D3748" opacity="0.3"/>
+    <circle cx="55" cy="40" r="6" fill="#FFFFFF" opacity="0.6"/>
+    <!-- Head strap -->
+    <path d="M 10 35 Q 5 20, 10 15 L 70 15 Q 75 20, 70 35" stroke="#6B46C1" stroke-width="3" fill="none" opacity="0.7"/>
+    <!-- Center detail -->
+    <circle cx="40" cy="40" r="2" fill="#FF6B9D"/>
+  </g>
+
+  <!-- Text: VR בכפר -->
+  <text x="85" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2D3748">VR בכפר</text>
+  <text x="85" y="55" font-family="Arial, sans-serif" font-size="12" fill="#6B46C1" opacity="0.8">חוויה משותפת</text>
+</svg>
